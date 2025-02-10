@@ -1,0 +1,2 @@
+Address to download MViTv2-T (ImageNet-1K trained models): 
+https://dl.fbaipublicfiles.com/mvit/mvitv2_models/MViTv2_T_in1k.pyth
