@@ -1,5 +1,7 @@
 # [Reimplement MViTv2](https://arxiv.org/abs/2112.01526)
 
+You can simply run the demo here: https://drive.google.com/drive/folders/1ix7_-aAQ-4BHLx6p4_M2A5VcYZw1C1FO?usp=sharing (NYU email required) 
+
 Xu's PyTorch implementation of **MViTv2**, from the following paper:
 
 [MViTv2: Improved Multiscale Vision Transformers for Classification and Detection](https://arxiv.org/abs/2112.01526). CVPR 2022.\
